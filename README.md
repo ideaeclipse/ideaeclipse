@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on multiple distributed computing projects at SysNet, namely PathStore: A data storage system for edge computing. This project will be publicly available soon!
 
-### My GitHub Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideaeclipse&hide=css,html)
 
 <!--
